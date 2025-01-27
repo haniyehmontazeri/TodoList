@@ -36,7 +36,7 @@ Setup Instructions
 
 Clone the Repository:
 
-git clone haniyehmontazeri/TodoList
+git clone https://github.com/haniyehmontazeri/TodoList
 cd todo
 
 Set Up the Database:
