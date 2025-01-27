@@ -1,18 +1,18 @@
-Todo Application
+**Todo Application**
 
 This is a simple Todo Application built using PHP, JavaScript, and MySQL. The application allows users to manage their tasks effectively, with a responsive UI and backend support.
 
-Features
+**Features**
 
-Add, edit, and delete tasks
+- Add, edit, and delete tasks
 
-Mark tasks as completed
+- Mark tasks as completed
 
-Persistent storage using a MySQL database
+- Persistent storage using a MySQL database
 
-Responsive design with custom styling
+- Responsive design with custom styling
 
-Project Structure
+**Project Structure**
 
 index.php: The main entry point of the application, containing the HTML structure.
 
@@ -24,7 +24,7 @@ backend.php: Server-side logic for handling requests such as adding, updating, a
 
 tasks (1).sql: SQL file containing the database schema for setting up the tasks table.
 
-Requirements
+**Requirements**
 
 PHP 7.4 or later
 
@@ -32,7 +32,7 @@ MySQL 5.7 or later
 
 A web server like Apache or Nginx
 
-Setup Instructions
+**Setup Instructions**
 
 Clone the Repository:
 
@@ -53,7 +53,7 @@ Run the Application:
 
 Start your web server and navigate to the application in your browser (e.g., http://localhost/todo).
 
-Usage
+**Usage**
 
 Open the application in your browser.
 
@@ -63,6 +63,3 @@ Mark tasks as completed by checking the checkbox.
 
 Edit or delete tasks using the corresponding buttons.
 
-Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
